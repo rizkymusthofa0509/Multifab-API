@@ -14,5 +14,7 @@ _POST - auth_
 - Cost Center      : http://api.multifab.co.id/v1/erp/cost_center
 _POST - auth_
 - Bisnis Unit      : http://api.multifab.co.id/v1/erp/business_unit
+_POST - auth_
+- Bisnis Unit      : http://api.multifab.co.id/v1/erp/business_unit/user
 _POST - e-mail_
 _POST - auth_
